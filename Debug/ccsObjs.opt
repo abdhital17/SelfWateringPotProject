@@ -1,0 +1,1 @@
+"./adc0.obj" "./lab9_abhishek_dhital.obj" "./tm4c123gh6pm_startup_ccs.obj" "./uart0.obj" "./wait.obj" "../tm4c123gh6pm.cmd" -llibc.a 
